@@ -12,7 +12,7 @@ Tested on Debian 5.2.9
 
 ### How to run (Linux)
 ```
-git clone https://github.com/m3dsec/extConv
+git clone https://github.com/m3dsec/ExtConv
 cd extConv
 python3 extConv.py wav mp3
 ```
