@@ -1,9 +1,8 @@
-# extConv
+# ExtConv
 little Mass media files converter, using python and ffmpeg
 
 <p align="center">
 <img src="https://i.imgur.com/C02wTT2.png"/>
-<img src="https://imgur.com/C02wTT2"/>
 </p>
 
 ### what is this
